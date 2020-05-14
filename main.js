@@ -25,7 +25,7 @@ function myFun() {
   document.write("zoom level=" + z + "   //zoom" + "<br>");
   document.write("xTile=" + Math.round(xTile) + "   //Column" + "<br>");
   document.write("yTile=" + Math.round(yTile) + "  //Row" + "<br>"+ "<br>");
-  document.write("HERE MAP連結 : "<img src=\https://1.base.maps.ls.hereapi.com/maptile/2.1/maptile/newest/normal.day/"+Math.round(z)+"/"+Math.round(xTile)+"/"+Math.round(yTile)+"/512/png8?apikey=sLDfVHxehQg0HajZ_i5_mgdwkLsXvYOvEQhJzlVqT3w&lg=CHT&lg2=ENG&ppi=72\"+ "<br>"+"<br>")
+  document.write("HERE MAP連結 : https://1.base.maps.ls.hereapi.com/maptile/2.1/maptile/newest/normal.day/"+Math.round(z)+"/"+Math.round(xTile)+"/"+Math.round(yTile)+"/512/png8?apikey=sLDfVHxehQg0HajZ_i5_mgdwkLsXvYOvEQhJzlVqT3w&lg=CHT&lg2=ENG&ppi=72"+ "<br>"+"<br>")
   
   document.write("<img src=\"https://1.base.maps.ls.hereapi.com/maptile/2.1/maptile/newest/normal.day/"+Math.round(z)+"/"+Math.round(xTile)+"/"+Math.round(yTile)+"/512/png8?apikey=sLDfVHxehQg0HajZ_i5_mgdwkLsXvYOvEQhJzlVqT3w&lg=CHT&lg2=ENG&ppi=72\">");
   
