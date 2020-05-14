@@ -1,0 +1,29 @@
+head {
+  background:#89CFF0;
+}
+body {
+  text-align:center;
+  color : blue;
+}
+h3{
+  color : blue
+}
+h3.b {
+  color:red;
+  white-space: nowrap;
+}
+
+p.a{
+  color:yellow
+}
+button{
+  color:Red;
+  height:60px;
+  width :100px;
+  background:#89CFF0;
+  font-size : 20px;
+  font-family:Verdana;
+  border: none;
+  border-radius:8px;
+  
+}
